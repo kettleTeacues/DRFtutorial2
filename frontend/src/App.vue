@@ -13,9 +13,8 @@
   color: #2c3e50;
 }
 
-main.container{
+main.container {
   border: 1px solid #ccc;
   width: 600px;
 }
-
 </style>
